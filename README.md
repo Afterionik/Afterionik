@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name Bogdan i'm 15 my main is Python but i taught a little Css HTML and now i studing C++
 <!--
 **Afterionik/Afterionik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
